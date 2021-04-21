@@ -87,6 +87,69 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+   
+   /* google fonts */
+  /* heading fonts */
+    @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+  /* body copy */
+  @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,600;1,400;1,600&display=swap');
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  line-height: 140%;
+  margin: 0;
+}
+
+/**
+ * Render the `main` element consistently in IE.
+ */
+
+main {
+  display: block;
+}
+
+/**
+ * Correct the font size and margin on `h1` elements within `section` and
+ * `article` contexts in Chrome, Firefox, and Safari.
+ */
+/* my type scale */ 
+h1,h2, h3, h4, h5, h6 {
+  font-family: 'Playfair Display', serif; 
+}
+
+h1 {
+  font-size: 96px;
+  margin: 0.67em 0;
+}
+
+h2 {
+  font-size: 72px;
+  margin: 0.67em 0;
+}
+
+h3 {
+  font-size: 64px;
+  margin: 0.67em 0;
+}
+
+h4 {
+  font-size: 48px;
+  margin: 0.67em 0;
+}
+
+h5 {
+  font-size: 36px;
+  margin: 0.67em 0;
+}
+
+h6 {
+  font-size: 24px;
+  margin: 0.67em 0;
+}
+
+
 /* ==========================================================================
    Helper classes
    ========================================================================== */
