@@ -96,8 +96,6 @@ textarea {
   @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,600;1,400;1,600&display=swap');
 
 body {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 16px;
   line-height: 140%;
   margin: 0;
 }
@@ -147,6 +145,12 @@ h5 {
 h6 {
   font-size: 24px;
   margin: 0.67em 0;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  line-height: 140%;
 }
 
 
