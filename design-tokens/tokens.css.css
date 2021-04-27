@@ -1,0 +1,106 @@
+/* colors */
+:root {
+  --b-4-bc-brand-pink: #e63698;
+  --pink-900: #791048;
+  --pink-800: #ac1667;
+  --pink-400: #eb65ad;
+  --pink-200: #f298cb;
+  --pink-100: #f8cce4;
+  --b-4-bc-brand-orange: #f48026;
+  --orange-900: #a14808;
+  --orange-800: #d76408;
+  --orange-400: #f69951;
+  --orange-200: #f9bb88;
+  --orange-100: #fcddc5;
+  --b-4-bc-brand-yellow: #ffec52;
+  --yellow-900: #cab400;
+  --yellow-800: #f7dc00;
+  --yellow-400: #ffff00;
+  --yellow-200: #ffec52;
+  --yellow-100: #fffad1;
+  --b-4-bc-brand-blue: #5ca0d5;
+  --blue-900: #256292;
+  --blue-800: #3c8dcd;
+  --blue-400: #7db3dd;
+  --blue-200: #9dc6e6;
+  --blue-100: #d4e6f4;
+}
+/* fonts */
+:root {        
+--primary-font: Playfair Display;
+--secondary-font: Playfair Display;
+--open-sans-400: Open Sans;
+--open-sans-600: Open Sans;
+}
+/* text styles*/
+.h-1 {
+  font-family : var(--secondary-font);
+  font-size : 96px;
+  line-height: 96px;
+  letter-spacing : 0em;
+}
+.h-2 {
+  font-family : var(--secondary-font);
+  font-size : 72px;
+  line-height: 72px;
+  letter-spacing : 0em;
+}
+.h-3 {
+  font-family : var(--secondary-font);
+  font-size : 64px;
+  line-height: 64px;
+  letter-spacing : 0em;
+}
+.h-4 {
+  font-family : var(--secondary-font);
+  font-size : 48px;
+  line-height: 58px;
+  letter-spacing : 0em;
+}
+.h-5 {
+  font-family : var(--secondary-font);
+  font-size : 36px;
+  line-height: 50px;
+  letter-spacing : 0em;
+}
+.h-6 {
+  font-family : var(--secondary-font);
+  font-size : 24px;
+  line-height: 38px;
+  letter-spacing : 0em;
+}
+.body-copy {
+  font-family : var(--open-sans-400);
+  font-size : 16px;
+  line-height: 22px;
+  letter-spacing : 0em;
+}
+.subheading {
+  font-family : var(--open-sans-600);
+  font-size : 18px;
+  line-height: 25px;
+  letter-spacing : 0em;
+}
+.pullquote {
+  font-family : var(--primary-font);
+  font-size : 24px;
+  line-height: 34px;
+  letter-spacing : 0em;
+}
+.navigation-buttons {
+  font-family : var(--open-sans-600);
+  font-size : 14px;
+  line-height: 20px;
+  letter-spacing : 0em;
+}
+/* SpacePatterns */
+:root {
+  --none: 0px;
+  --xx-small: 2px;
+  --x-small: 4px;
+  --small: 8px;
+  --regular: 16px;
+  --large: 32px;
+  --x-large: 64px;
+  --xx-large: 128px;
+}

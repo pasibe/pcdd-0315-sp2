@@ -1,0 +1,226 @@
+{
+  "colors" : [
+    {
+      "name" : "B4BC-brand-pink",
+      "value" : "#e63698"
+    },
+    {
+      "name" : "pink-900",
+      "value" : "#791048"
+    },
+    {
+      "name" : "pink-800",
+      "value" : "#ac1667"
+    },
+    {
+      "name" : "pink-400",
+      "value" : "#eb65ad"
+    },
+    {
+      "name" : "pink-200",
+      "value" : "#f298cb"
+    },
+    {
+      "name" : "pink-100",
+      "value" : "#f8cce4"
+    },
+    {
+      "name" : "B4BC-brand-orange",
+      "value" : "#f48026"
+    },
+    {
+      "name" : "orange-900",
+      "value" : "#a14808"
+    },
+    {
+      "name" : "orange-800",
+      "value" : "#d76408"
+    },
+    {
+      "name" : "orange-400",
+      "value" : "#f69951"
+    },
+    {
+      "name" : "orange-200",
+      "value" : "#f9bb88"
+    },
+    {
+      "name" : "orange-100",
+      "value" : "#fcddc5"
+    },
+    {
+      "name" : "B4BC-brand-yellow",
+      "value" : "#ffec52"
+    },
+    {
+      "name" : "yellow-900",
+      "value" : "#cab400"
+    },
+    {
+      "name" : "yellow-800",
+      "value" : "#f7dc00"
+    },
+    {
+      "name" : "yellow-400",
+      "value" : "#ffff00"
+    },
+    {
+      "name" : "yellow-200",
+      "value" : "#ffec52"
+    },
+    {
+      "name" : "yellow-100",
+      "value" : "#fffad1"
+    },
+    {
+      "name" : "B4BC-brand-blue",
+      "value" : "#5ca0d5"
+    },
+    {
+      "name" : "blue-900",
+      "value" : "#256292"
+    },
+    {
+      "name" : "blue-800",
+      "value" : "#3c8dcd"
+    },
+    {
+      "name" : "blue-400",
+      "value" : "#7db3dd"
+    },
+    {
+      "name" : "blue-200",
+      "value" : "#9dc6e6"
+    },
+    {
+      "name" : "blue-100",
+      "value" : "#d4e6f4"
+    },
+  ]
+}{
+  "fonts" : [
+    "primary-font" : {
+      "name" : "Primary Font",
+      "fontFamily" : "Playfair Display"
+    },
+    "secondary-font" : {
+      "name" : "Secondary Font",
+      "fontFamily" : "Playfair Display"
+    },
+    "open-sans-400" : {
+      "name" : "Open Sans 400",
+      "fontFamily" : "Open Sans"
+    },
+    "open-sans-600" : {
+      "name" : "Open Sans 600",
+      "fontFamily" : "Open Sans"
+    },
+  ],
+  "typeStyles" : [
+    "h-1" : {
+      "name" : "H1",
+      "fontFamily" : "Playfair Display",
+      "fontSize" : "96px",
+      "lineHeight" : "96px",
+      "letterSpacing" : "0em",
+    },
+    "h-2" : {
+      "name" : "H2",
+      "fontFamily" : "Playfair Display",
+      "fontSize" : "72px",
+      "lineHeight" : "72px",
+      "letterSpacing" : "0em",
+    },
+    "h-3" : {
+      "name" : "H3",
+      "fontFamily" : "Playfair Display",
+      "fontSize" : "64px",
+      "lineHeight" : "64px",
+      "letterSpacing" : "0em",
+    },
+    "h-4" : {
+      "name" : "H4",
+      "fontFamily" : "Playfair Display",
+      "fontSize" : "48px",
+      "lineHeight" : "58px",
+      "letterSpacing" : "0em",
+    },
+    "h-5" : {
+      "name" : "H5",
+      "fontFamily" : "Playfair Display",
+      "fontSize" : "36px",
+      "lineHeight" : "50px",
+      "letterSpacing" : "0em",
+    },
+    "h-6" : {
+      "name" : "H6",
+      "fontFamily" : "Playfair Display",
+      "fontSize" : "24px",
+      "lineHeight" : "38px",
+      "letterSpacing" : "0em",
+    },
+    "body-copy" : {
+      "name" : "Body copy",
+      "fontFamily" : "Open Sans",
+      "fontSize" : "16px",
+      "lineHeight" : "22px",
+      "letterSpacing" : "0em",
+    },
+    "subheading" : {
+      "name" : "Subheading",
+      "fontFamily" : "Open Sans",
+      "fontSize" : "18px",
+      "lineHeight" : "25px",
+      "letterSpacing" : "0em",
+    },
+    "pullquote" : {
+      "name" : "Pullquote",
+      "fontFamily" : "Playfair Display",
+      "fontSize" : "24px",
+      "lineHeight" : "34px",
+      "letterSpacing" : "0em",
+    },
+    "navigation-buttons" : {
+      "name" : "Navigation/Buttons",
+      "fontFamily" : "Open Sans",
+      "fontSize" : "14px",
+      "lineHeight" : "20px",
+      "letterSpacing" : "0em",
+    },
+  ]
+}{
+  "SpacePatterns" : [
+    {
+      "name" : "none",
+      "value" : "0px"
+    },
+    {
+      "name" : "xx-small",
+      "value" : "2px"
+    },
+    {
+      "name" : "x-small",
+      "value" : "4px"
+    },
+    {
+      "name" : "small",
+      "value" : "8px"
+    },
+    {
+      "name" : "regular",
+      "value" : "16px"
+    },
+    {
+      "name" : "large",
+      "value" : "32px"
+    },
+    {
+      "name" : "x-large",
+      "value" : "64px"
+    },
+    {
+      "name" : "xx-large",
+      "value" : "128px"
+    },
+  ]
+}

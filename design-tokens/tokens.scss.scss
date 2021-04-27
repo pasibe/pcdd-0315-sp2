@@ -1,0 +1,100 @@
+/* colors */
+$b-4-bc-brand-pink: #e63698;
+$pink-900: #791048;
+$pink-800: #ac1667;
+$pink-400: #eb65ad;
+$pink-200: #f298cb;
+$pink-100: #f8cce4;
+$b-4-bc-brand-orange: #f48026;
+$orange-900: #a14808;
+$orange-800: #d76408;
+$orange-400: #f69951;
+$orange-200: #f9bb88;
+$orange-100: #fcddc5;
+$b-4-bc-brand-yellow: #ffec52;
+$yellow-900: #cab400;
+$yellow-800: #f7dc00;
+$yellow-400: #ffff00;
+$yellow-200: #ffec52;
+$yellow-100: #fffad1;
+$b-4-bc-brand-blue: #5ca0d5;
+$blue-900: #256292;
+$blue-800: #3c8dcd;
+$blue-400: #7db3dd;
+$blue-200: #9dc6e6;
+$blue-100: #d4e6f4;
+/* fonts */
+$primary-font: Playfair Display;
+$secondary-font: Playfair Display;
+$open-sans-400: Open Sans;
+$open-sans-600: Open Sans;
+/* text styles*/
+@mixin h-1() {
+  fontFamily : $secondary-font;
+  fontSize : 96px;
+  lineHeight: 96px;
+  letterSpacing : 0em;
+}
+@mixin h-2() {
+  fontFamily : $secondary-font;
+  fontSize : 72px;
+  lineHeight: 72px;
+  letterSpacing : 0em;
+}
+@mixin h-3() {
+  fontFamily : $secondary-font;
+  fontSize : 64px;
+  lineHeight: 64px;
+  letterSpacing : 0em;
+}
+@mixin h-4() {
+  fontFamily : $secondary-font;
+  fontSize : 48px;
+  lineHeight: 58px;
+  letterSpacing : 0em;
+}
+@mixin h-5() {
+  fontFamily : $secondary-font;
+  fontSize : 36px;
+  lineHeight: 50px;
+  letterSpacing : 0em;
+}
+@mixin h-6() {
+  fontFamily : $secondary-font;
+  fontSize : 24px;
+  lineHeight: 38px;
+  letterSpacing : 0em;
+}
+@mixin body-copy() {
+  fontFamily : $open-sans-400;
+  fontSize : 16px;
+  lineHeight: 22px;
+  letterSpacing : 0em;
+}
+@mixin subheading() {
+  fontFamily : $open-sans-600;
+  fontSize : 18px;
+  lineHeight: 25px;
+  letterSpacing : 0em;
+}
+@mixin pullquote() {
+  fontFamily : $primary-font;
+  fontSize : 24px;
+  lineHeight: 34px;
+  letterSpacing : 0em;
+}
+@mixin navigation-buttons() {
+  fontFamily : $open-sans-600;
+  fontSize : 14px;
+  lineHeight: 20px;
+  letterSpacing : 0em;
+}
+/* SpacePatterns */
+$none: 0px;
+$xx-small: 2px;
+$x-small: 4px;
+$small: 8px;
+$regular: 16px;
+$large: 32px;
+$x-large: 64px;
+$xx-large: 128px;
